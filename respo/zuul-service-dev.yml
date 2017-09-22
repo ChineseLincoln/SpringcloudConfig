@@ -8,7 +8,7 @@ zuul:
       serviceId: feign-service
 
 server:
-  port: 7001
+  port: 8001
 
 eureka:
   client:
